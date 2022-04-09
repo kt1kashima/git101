@@ -13,3 +13,4 @@ git pull
 git pull
 git merger
 git push リモート ブランチ名
+test
