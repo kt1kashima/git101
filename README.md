@@ -15,3 +15,4 @@ git merger
 git push リモート ブランチ名
 test
 rejet
+演習3
