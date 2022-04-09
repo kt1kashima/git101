@@ -9,3 +9,4 @@ git merge --ff-only origin/master
 git pull origin master
 git branch -u origin/master
 git pull
+複数人で共同開発する
