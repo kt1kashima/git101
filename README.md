@@ -8,3 +8,4 @@ git fetch origin master
 git merge --ff-only origin/master
 git pull origin master
 git branch -u origin/master
+git pull
